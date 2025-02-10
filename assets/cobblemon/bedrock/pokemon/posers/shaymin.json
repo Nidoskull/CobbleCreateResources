@@ -1,0 +1,53 @@
+{
+  "portraitScale": 2.3,
+  "portraitTranslation": [-0.2, -1.8, 0],
+  "profileScale": 0.75,
+  "profileTranslation": [0, 0.68, 0],
+  "animations": {
+    "faint": "q.bedrock_primary('shaymin', 'faint', q.curve('one'))",
+    "recoil": "q.bedrock_stateful('shaymin', 'recoil')",
+    "physical": "q.bedrock_primary('shaymin', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('shaymin', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('shaymin', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isTouchingWater": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('shaymin', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "isTouchingWater": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('shaymin', 'ground_walk')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "isTouchingWater": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('shaymin', 'water_idle')"
+      ]
+    },
+    "shoulder_left": {
+      "poseTypes": ["SHOULDER_LEFT"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('shaymin', 'shoulder_left')"
+      ]
+    },
+    "shoulder_right": {
+      "poseTypes": ["SHOULDER_RIGHT"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('shaymin', 'shoulder_right')"
+      ]
+    }
+  }
+ }
