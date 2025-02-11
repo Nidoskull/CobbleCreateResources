@@ -4,7 +4,7 @@
  "variations": [
    {
      "aspects": [],
-     "poser": "cobblemon:shaymin",
+     "poser": "cobblemon:shaymin2",
      "model": "cobblemon:shaymin2.geo",
      "texture": "cobblemon:textures/pokemon/0492_shaymin/shaymin.png",
      "layers": []
