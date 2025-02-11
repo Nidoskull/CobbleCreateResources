@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:absol",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:absol2",
+      "model": "cobblemon:absol.geo",
+      "texture": "cobblemon:textures/pokemon/0395_absol/absol.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0395_absol/absol_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0395_absol/absol_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0395_absol/absol_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
