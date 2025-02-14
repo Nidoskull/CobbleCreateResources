@@ -2514,8 +2514,20 @@
       ],
       "ridingOffSet": [
         -1.0,
-        0.0,
+        -0.5,
         0.0
+      ],
+      "passengersOffSet": [
+        [
+          -0.5,
+          -0.5,
+          0.0
+        ],
+        [
+          0,
+          -0.5,
+          0.0
+        ]
       ],
       "speedModifier": 1.5,
       "stamina": 1400
@@ -3645,6 +3657,56 @@
       ],
       "speedModifier": 0.9,
       "stamina": 1800
+    },
+    "forretress":{
+      "mountType": [
+        "WALK"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.5,
+        0.0
+      ],
+      "speedModifier": 0.2,
+      "stamina": 4600
+    },
+    "armaldo":{
+      "mountType": [
+        "WALK",
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        -0.5,
+        0.4,
+        0.0
+      ],
+      "speedModifier": 0.9,
+      "stamina": 900
+    },
+    "dragalge":{
+      "mountType": [
+        "SWIM"
+      ],
+      "ridingOffSet": [
+        0,
+        1,
+        0.0
+      ],
+      "speedModifier": 0.8,
+      "stamina": 2400
+    },
+    "vikavolt":{
+      "mountType": [
+        "WALK",
+        "FLY"
+      ],
+      "ridingOffSet": [
+        0.0,
+        0.6,
+        0.0
+      ],
+      "speedModifier": 1.4,
+      "stamina": 100
     }
   }
 }
