@@ -1,4 +1,10 @@
 {
   "target": "cobblemon:tapukoko",
+  "baseScale": 0.6,
+  "hitbox": {
+      "width": 2,
+      "height": 3,
+      "fixed": false
+  },
   "labels": ["legendary"]
 }
