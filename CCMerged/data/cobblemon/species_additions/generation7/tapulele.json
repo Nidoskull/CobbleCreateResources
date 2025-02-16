@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:tapulele",
+  "baseScale": 0.55,
+  "hitbox": {
+      "width": 1.3,
+      "height": 3,
+      "fixed": false
+  },
+  "labels": ["legendary"]
+}

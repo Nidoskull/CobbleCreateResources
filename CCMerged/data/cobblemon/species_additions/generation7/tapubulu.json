@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:tapubulu",
+  "baseScale": 0.75,
+  "hitbox": {
+      "width": 1,
+      "height": 3,
+      "fixed": false
+  },
+  "labels": ["legendary"]
+}
