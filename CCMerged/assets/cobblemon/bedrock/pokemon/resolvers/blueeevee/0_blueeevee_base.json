@@ -1,0 +1,19 @@
+{
+ "species": "cobblemon:blueeevee",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:blueeevee",
+     "model": "cobblemon:blueeevee.geo",
+     "texture": "cobblemon:textures/pokemon/blueeevee/blueeevee.png",
+     "layers": []
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/blueeevee/blueeevee.png"
+   }
+ ]
+}

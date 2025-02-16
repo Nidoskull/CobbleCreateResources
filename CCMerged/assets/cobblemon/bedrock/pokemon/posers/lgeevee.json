@@ -1,0 +1,80 @@
+{
+ "head": "head",
+ "portraitScale": 1,
+ "portraitTranslation": [ 0, 0.5, 0 ],
+ "profileScale": 1,
+ "profileTranslation": [ 0, 0.4, 0 ],
+ "animations": {
+   "cry": "q.bedrock_stateful('lgeevee', 'cry')",
+   "special": "q.bedrock_primary('lgeevee', 'special_attack', q.curve('symmetrical_wide'))"
+ },
+ "poses": {
+   "standing": {
+     "poseName": "standing",
+     "transformTicks": 10,
+     "poseTypes": [
+       "STAND",
+       "NONE",
+       "PORTRAIT",
+       "PROFILE"
+     ],
+     "animations": [
+       "look",
+       "bedrock(lgeevee, ground_idle)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(lgeevee, blink)"
+         ]
+       }
+     ]
+   },
+   "walking": {
+     "poseName": "walking",
+     "transformTicks": 10,
+     "poseTypes": [ "WALK" ],
+     "animations": [ "bedrock(lgeevee, ground_walk)" ]
+   },
+   "leftshoulder": {
+     "poseName": "leftshoulder",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SHOULDER_LEFT"
+     ],
+     "animations": [
+       "bedrock(lgeevee, left_shoulder)",
+       "look"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(lgeevee, blink)"
+         ]
+       }
+     ]
+   },
+   "rightshoulder": {
+     "poseName": "rightshoulder",
+     "transformTicks": 10,
+     "poseTypes": [
+       "SHOULDER_RIGHT"
+     ],
+     "animations": [
+       "bedrock(lgeevee, right_shoulder)",
+       "look"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(lgeevee, blink)"
+         ]
+       }
+     ]
+   }
+
+ }
+}
