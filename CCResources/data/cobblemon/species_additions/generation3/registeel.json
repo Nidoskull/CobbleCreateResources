@@ -1,4 +1,5 @@
 {
+    "target": "cobblemon:registeel",
     "moves": [
       "1:metalclaw",
       "1:chargebeam",

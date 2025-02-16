@@ -1,4 +1,5 @@
 {
+    "target": "cobblemon:regirock",
     "moves": [
       "1:rockthrow",
       "1:chargebeam",
