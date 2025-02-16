@@ -1,22 +1,12 @@
 {
-  "implemented": true,
   "name": "Axew",
   "nationalPokedexNumber": 610,
   "primaryType": "dragon",
-  "abilities": ["rivalry", "moldbreaker", "h:unnerve"],
-  "drops": {
-    "amount": 2,
-    "entries": [
-      {
-        "item": "cobblemon:dragon_fang",
-        "percentage": 2.5
-      },
-      {
-        "item": "cobblemon:haban_berry",
-        "percentage": 2.5
-      }
-    ]
-  },
+  "abilities": [
+    "rivalry",
+    "moldbreaker",
+    "h:unnerve"
+  ],
   "baseStats": {
     "hp": 46,
     "attack": 87,
@@ -31,7 +21,10 @@
   "baseExperienceYield": 64,
   "experienceGroup": "slow",
   "eggCycles": 40,
-  "eggGroups": ["monster", "dragon"],
+  "eggGroups": [
+    "monster",
+    "dragon"
+  ],
   "moves": [
     "1:leer",
     "1:scratch",
@@ -76,15 +69,12 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
-    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
-    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
-    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -109,7 +99,6 @@
     "tm:rocksmash",
     "tm:rocktomb",
     "tm:round",
-    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:shadowclaw",
@@ -152,8 +141,12 @@
     "tutor:snore",
     "tutor:superpower"
   ],
-  "labels": ["gen5"],
-  "pokedex": ["cobblemon.species.axew.desc"],
+  "labels": [
+    "gen5"
+  ],
+  "pokedex": [
+    "cobblemon.species.axew.desc"
+  ],
   "evolutions": [
     {
       "id": "axew_fraxure",
@@ -169,7 +162,7 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.7,
   "hitbox": {
     "width": 1,
     "height": 1,
