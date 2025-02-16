@@ -552,7 +552,7 @@
         0.4,
         0.0
       ],
-      "speedModifier": 1.0,
+      "speedModifier": 1.6,
       "stamina": 800
     },
     "megasharpedo": {
@@ -564,7 +564,7 @@
         0.4,
         0.0
       ],
-      "speedModifier": 1.2,
+      "speedModifier": 2.5,
       "stamina": 800
     },
     "bouffalant": {
@@ -747,7 +747,7 @@
         0.5,
         0.0
       ],
-      "speedModifier": 0.6,
+      "speedModifier": 0.8,
       "stamina": 800
     },
     "Samurott": {
@@ -761,7 +761,7 @@
           0.5,
           0.0
         ],
-        "speedModifier": 0.3,
+        "speedModifier": 0.8,
         "stamina": 800
       },
     "tentacruel": {
@@ -1727,7 +1727,7 @@
           0.0
         ]
       ],
-      "speedModifier": 1.1,
+      "speedModifier": 2,
       "stamina": 1400
     },
     "latios": {
@@ -1747,7 +1747,7 @@
           0.0
         ]
       ],
-      "speedModifier": 1.1,
+      "speedModifier": 2,
       "stamina": 1400
     },
 "kyogre": {
