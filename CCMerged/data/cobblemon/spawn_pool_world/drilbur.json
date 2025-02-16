@@ -27,6 +27,31 @@
                     "#cobblemon:is_abyss"
                 ]
             }
+        },
+        {
+            "id": "drilbur-2",
+            "pokemon": "drilbur",
+            "presets": [
+                "underground"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "8-31",
+            "weight": 6.1,
+            "condition": {
+                "canSeeSky": false,
+				"minY": 0,
+                "maxY": 64,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_abyss"
+                ]
+            }
         }
     ]
 }

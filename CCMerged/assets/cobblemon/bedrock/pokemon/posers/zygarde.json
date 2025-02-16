@@ -1,0 +1,25 @@
+{
+    "portraitScale": 2.3,
+    "portraitTranslation": [-0.2, -2, 0],
+    "profileScale": 1,
+    "profileTranslation": [0, 0.2, 0],
+    "animations": {
+    },
+    "poses": {
+      "standing": {
+        "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+        "isBattle": false,
+        "animations": [
+          "q.look('head')",
+          "q.bedrock('zygarde', 'ground_idle')"
+        ]
+      },
+      "walking": {
+        "poseTypes": ["WALK"],
+        "animations": [
+          "q.look('head')",
+          "q.bedrock('zygarde', 'ground_walk')"
+        ]
+      }
+    }
+   }
