@@ -10,7 +10,7 @@
         "context": "grounded",
         "bucket": "common",
         "level": "7-25",
-        "weight": 6.0,
+        "weight": 3.0,
         "condition": {
           "canSeeSky": true,
           "biomes": [ "minecraft:plains"
@@ -25,7 +25,7 @@
         "context": "grounded",
         "bucket": "common",
         "level": "7-22",
-        "weight": 6.0,
+        "weight": 3.0,
         "condition": {
           "canSeeSky": true,
           "biomes": [ "#cminecraft:is_forest"]

@@ -6,22 +6,22 @@
       "aspects": [],
       "poser": "cobblemon:araquanid2",
       "model": "cobblemon:araquanid2.geo",
-      "texture": "cobblemon:textures/pokemon/0752_araquanid/araquanid.png",
+      "texture": "cobblemon:textures/pokemon/generation7/0752_araquanid/araquanid.png",
       "layers": [
         {
           "name": "glow",
-          "texture": "cobblemon:textures/pokemon/0752_araquanid/araquanid_emissive.png",
+          "texture": "cobblemon:textures/pokemon/generation7/0752_araquanid/araquanid_emissive.png",
           "emissive": true
         }
       ]
     },
     {
       "aspects": [ "shiny" ],
-      "texture": "cobblemon:textures/pokemon/0752_araquanid/araquanid_shiny.png",
+      "texture": "cobblemon:textures/pokemon/generation7/0752_araquanid/araquanid_shiny.png",
       "layers": [
         {
           "name": "glow",
-          "texture": "cobblemon:textures/pokemon/0752_araquanid/araquanid_emissive.png",
+          "texture": "cobblemon:textures/pokemon/generation7/0752_araquanid/araquanid_emissive.png",
           "emissive": true
         }
       ]

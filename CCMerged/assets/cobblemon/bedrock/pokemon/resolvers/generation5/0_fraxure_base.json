@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:fraxure",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:fraxure",
+      "model": "cobblemon:fraxure.geo",
+      "texture": "cobblemon:textures/pokemon/generation5/0611_fraxure/fraxure2.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/generation5/0611_fraxure/fraxure2_shiny.png"
+    }
+  ]
+}

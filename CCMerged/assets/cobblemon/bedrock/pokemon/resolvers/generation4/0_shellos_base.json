@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:shellos",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shellos",
+      "model": "cobblemon:shellos_e.geo",
+      "texture": "cobblemon:textures/pokemon/generation4/0422_shellos/shellos_e.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation4/0422_shellos/shellos_shiny.png"
+    }
+  ]
+}

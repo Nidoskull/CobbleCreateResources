@@ -1,0 +1,19 @@
+{
+ "species": "cobblemon:pinkeevee",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:pinkeevee",
+     "model": "cobblemon:pinkeevee.geo",
+     "texture": "cobblemon:textures/pokemon/generation1/0133_eevee/pinkeevee.png",
+     "layers": []
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/generation1/0133_eevee/pinkeevee.png"
+   }
+ ]
+}

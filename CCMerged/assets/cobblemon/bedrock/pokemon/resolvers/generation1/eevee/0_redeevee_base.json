@@ -1,0 +1,19 @@
+{
+ "species": "cobblemon:redeevee",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:redeevee",
+     "model": "cobblemon:redeevee.geo",
+     "texture": "cobblemon:textures/pokemon/generation1/0133_eevee/redeevee.png",
+     "layers": []
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/generation1/0133_eevee/redeevee.png"
+   }
+ ]
+}

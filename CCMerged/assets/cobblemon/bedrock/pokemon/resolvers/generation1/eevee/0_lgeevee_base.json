@@ -1,0 +1,19 @@
+{
+ "species": "cobblemon:lgeevee",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:lgeevee",
+     "model": "cobblemon:lgeevee.geo",
+     "texture": "cobblemon:textures/pokemon/generation1/0133_eevee/lgeevee.png",
+     "layers": []
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/generation1/0133_eevee/lgeevee.png"
+   }
+ ]
+}
