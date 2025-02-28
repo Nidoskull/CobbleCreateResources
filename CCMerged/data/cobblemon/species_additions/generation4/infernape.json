@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:infernape",
+    "lightingData": {
+        "lightLevel": 10,
+        "liquidGlowMode": "LAND"
+       }
+}

@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:rapidash",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

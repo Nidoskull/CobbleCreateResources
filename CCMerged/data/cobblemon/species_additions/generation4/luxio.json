@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:luxio",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

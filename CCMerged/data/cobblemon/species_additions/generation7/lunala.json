@@ -1,0 +1,20 @@
+{
+    "target": "cobblemon:lunala",
+    "behaviour": {
+        "moving": {
+          "fly": {
+            "canFly": true,
+            "flySpeedHorizontal": 1.2
+          }
+        }
+      },
+      "lightingData": {
+        "lightLevel": 6,
+        "liquidGlowMode": "LAND"
+       },
+  "hitbox": {
+    "width": 3,
+    "height": 5,
+    "fixed": false
+  }
+}

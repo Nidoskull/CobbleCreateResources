@@ -1,0 +1,41 @@
+{
+    "portraitScale": 2.3,
+    "portraitTranslation": [-0.1, 0.58, 0],
+    "profileScale": 0.75,
+    "profileTranslation": [0, 0.68, 0],
+    "animations": {
+      "faint": "q.bedrock_primary('arceus', 'faint', q.curve('one'))",
+      "cry": "q.bedrock_stateful('arceus', 'cry')"
+    },
+    "poses": {
+      "standing": {
+        "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+        "isBattle": false,
+        "animations": [
+          "q.look('head')",
+          "q.bedrock('arceus', 'ground_idle')"
+        ]
+      },
+      "walking": {
+        "poseTypes": ["WALK"],
+        "animations": [
+          "q.look('head')",
+          "q.bedrock('arceus', 'ground_walk')"
+        ]
+      },
+      "hover": {
+        "poseTypes": ["HOVER"],
+        "animations": [
+          "q.look('head')",
+          "q.bedrock('arceus', 'air_idle')"
+        ]
+      },
+      "fly": {
+        "poseTypes": ["FLY"],
+        "animations": [
+          "q.look('head')",
+          "q.bedrock('arceus', 'air_fly')"
+        ]
+      }
+    }
+}

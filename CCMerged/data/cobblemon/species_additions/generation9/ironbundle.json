@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ironbundle",
+    "lightingData": {
+        "lightLevel": 4,
+        "liquidGlowMode": "BOTH"
+       }
+}

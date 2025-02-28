@@ -1,5 +1,9 @@
 {
     "target": "cobblemon:cresselia",
+      "lightingData": {
+          "lightLevel": 7,
+          "liquidGlowMode": "LAND"
+         },
   "moves": [
     "1:confusion",
     "1:doubleteam",

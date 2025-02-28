@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:lanturn",
+    "lightingData": {
+        "lightLevel": 15,
+        "liquidGlowMode": "UNDERWATER"
+       }
+}

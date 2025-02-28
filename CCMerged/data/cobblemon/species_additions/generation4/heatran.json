@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:heatran",
+    "lightingData": {
+        "lightLevel": 13,
+        "liquidGlowMode": "LAND"
+       }
+}

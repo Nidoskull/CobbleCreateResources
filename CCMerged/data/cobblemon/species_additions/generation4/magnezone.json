@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:magnezone",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "BOTH"
+       }
+}

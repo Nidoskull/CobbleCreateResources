@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:rotom",
+    "lightingData": {
+        "lightLevel": 14,
+        "liquidGlowMode": "LAND"
+       }
+}

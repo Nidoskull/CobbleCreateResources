@@ -54,7 +54,8 @@
       ],
       "labels": [
         "gen7",
-        "legendary"
+        "legendary",
+        "ultra_beast"
       ],
       "aspects": [
         "dusk-mane"
@@ -102,7 +103,8 @@
       ],
       "labels": [
         "gen7",
-        "legendary"
+        "legendary",
+        "ultra_beast"
       ],
       "aspects": [
         "dawn-wings"
@@ -151,7 +153,8 @@
       ],
       "labels": [
         "gen7",
-        "legendary"
+        "legendary",
+        "ultra_beast"
       ],
       "aspects": [
         "ultra"
@@ -286,7 +289,8 @@
   ],
   "labels": [
     "gen7",
-    "legendary"
+    "legendary",
+    "ultra_beast"
   ],
   "pokedex": [
     "cobblemon.species.necrozma.desc"

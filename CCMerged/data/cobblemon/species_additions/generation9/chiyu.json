@@ -1,5 +1,9 @@
 {
     "target": "cobblemon:chiyu",
+      "lightingData": {
+          "lightLevel": 13,
+          "liquidGlowMode": "LAND"
+         },
   "moves": [
     "1:ember",
     "1:spite",

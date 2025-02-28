@@ -12,6 +12,25 @@
     "special_defence": 60,
     "speed": 75
   },
+	"baseScale": 0.7,
+	"hitbox": {
+		"width": 1.5,
+		"height": 2,
+		"fixed": false
+	  },
+	"behaviour": {
+		"moving": {
+		  "canLook": false,
+		  "walk": {
+			"avoidsLand": false
+		  },
+		  "swim": {
+			"swimSpeed": 0.1,
+			"canSwimInWater": true,
+			"canBreatheUnderwater": false
+		  }
+		}
+	},
   "catchRate": 30,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -228,12 +247,6 @@
   "labels": ["gen3"],
   "pokedex": ["cobblemon.species.absol.desc"],
   "evolutions": [],
-  "baseScale": 1,
-  "hitbox": {
-    "width": 1,
-    "height": 1,
-    "fixed": false
-  },
   "baseFriendship": 35,
   "evYield": {
     "hp": 0,

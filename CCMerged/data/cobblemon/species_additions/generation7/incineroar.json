@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:incineroar",
+    "lightingData": {
+        "lightLevel": 10,
+        "liquidGlowMode": "LAND"
+       }
+}

@@ -1,0 +1,8 @@
+{
+    "target": "cobblemon:shinx",   
+    "shoulderMountable": true,
+        "lightingData": {
+            "lightLevel": 4,
+            "liquidGlowMode": "LAND"
+           }
+}

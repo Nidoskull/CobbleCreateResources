@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:magmortar",
+    "lightingData": {
+        "lightLevel": 9,
+        "liquidGlowMode": "LAND"
+       }
+}

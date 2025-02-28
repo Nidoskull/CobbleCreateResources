@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:emboar",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

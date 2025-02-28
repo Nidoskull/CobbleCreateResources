@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:chandelure",
+    "lightingData": {
+        "lightLevel": 13,
+        "liquidGlowMode": "LAND"
+       }
+}

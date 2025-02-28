@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ponyta",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

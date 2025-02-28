@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:monferno",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

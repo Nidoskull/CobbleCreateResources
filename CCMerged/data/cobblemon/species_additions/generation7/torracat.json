@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:torracat",
+    "lightingData": {
+        "lightLevel": 4,
+        "liquidGlowMode": "LAND"
+       }
+}

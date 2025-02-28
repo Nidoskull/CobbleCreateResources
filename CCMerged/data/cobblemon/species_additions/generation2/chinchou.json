@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:chinchou",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "UNDERWATER"
+       }
+}

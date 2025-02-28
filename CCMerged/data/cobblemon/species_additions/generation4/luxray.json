@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:luxray",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

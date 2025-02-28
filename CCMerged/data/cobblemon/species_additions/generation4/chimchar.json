@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:chimchar",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

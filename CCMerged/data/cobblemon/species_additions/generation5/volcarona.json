@@ -1,0 +1,15 @@
+{
+    "target": "cobblemon:volcarona",
+    "behaviour": {
+        "moving": {
+          "fly": {
+            "canFly": true,
+            "flySpeedHorizontal": 1.2
+          }
+        }
+      },
+      "lightingData": {
+        "lightLevel": 15,
+        "liquidGlowMode": "LAND"
+       }
+}

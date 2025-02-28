@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ceruledge",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}

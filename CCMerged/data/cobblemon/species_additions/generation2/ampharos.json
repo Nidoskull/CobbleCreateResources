@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ampharos",
+    "lightingData": {
+        "lightLevel": 15,
+        "liquidGlowMode": "BOTH"
+       }
+}

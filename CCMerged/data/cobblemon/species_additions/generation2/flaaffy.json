@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:flaaffy",
+    "lightingData": {
+        "lightLevel": 10,
+        "liquidGlowMode": "BOTH"
+       }
+}

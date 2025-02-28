@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ironboulder",
+    "lightingData": {
+        "lightLevel": 4,
+        "liquidGlowMode": "BOTH"
+       }
+}

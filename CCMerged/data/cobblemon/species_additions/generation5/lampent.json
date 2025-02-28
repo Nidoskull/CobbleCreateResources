@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:lampent",
+    "lightingData": {
+        "lightLevel": 10,
+        "liquidGlowMode": "BOTH"
+       }
+}

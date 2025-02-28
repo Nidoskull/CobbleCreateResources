@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:magcargo",
+    "lightingData": {
+        "lightLevel": 13,
+        "liquidGlowMode": "LAND"
+       }
+}

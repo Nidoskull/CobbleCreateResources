@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ironhands",
+    "lightingData": {
+        "lightLevel": 4,
+        "liquidGlowMode": "BOTH"
+       }
+}

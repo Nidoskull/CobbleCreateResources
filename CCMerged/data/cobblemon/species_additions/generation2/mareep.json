@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:mareep",
+    "lightingData": {
+        "lightLevel": 6,
+        "liquidGlowMode": "BOTH"
+       }
+}

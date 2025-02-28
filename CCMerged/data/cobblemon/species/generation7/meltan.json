@@ -58,7 +58,25 @@
   ],
   "labels": ["gen7", "mythical", "legendary"],
   "pokedex": ["cobblemon.species.meltan.desc"],
-  "evolutions": [],
+  "evolutions": [
+    {
+      "id": "meltan-melmetal-level_up",
+      "variant": "level_up",
+      "result": "melmetal",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "thunderpunch"
+      ],
+      "requirements": [
+        {
+          "variant": "party_member",
+          "target": "meltan",
+          "contains": true
+        }
+      ],
+      "requiredContext": ""
+    }
+  ],
   "baseScale": 1,
   "hitbox": {
     "width": 1,

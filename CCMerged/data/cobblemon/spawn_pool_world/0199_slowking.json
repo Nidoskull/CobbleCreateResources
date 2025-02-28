@@ -45,6 +45,21 @@
           "betterend:megalake_grove"
         ]
       }
-    }
+    },
+    {
+      "id": "slowking2",
+      "pokemon": "slowking-galarian",
+      "presets": [ "natural" ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-50",
+      "weight": 2.0,
+      "condition":  {
+       "biomes": [
+           "minecraft:mangrove_swamp"
+       ]
+   }
+ }
   ]
 }

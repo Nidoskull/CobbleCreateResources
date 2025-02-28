@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:lumineon",
+    "lightingData": {
+        "lightLevel": 4,
+        "liquidGlowMode": "UNDERWATER"
+       }
+}

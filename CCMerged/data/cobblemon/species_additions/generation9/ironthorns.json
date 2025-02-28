@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ironthorns",
+    "lightingData": {
+        "lightLevel": 4,
+        "liquidGlowMode": "BOTH"
+       }
+}

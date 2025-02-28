@@ -1,0 +1,59 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+      {
+        "id": "zapdos-1",
+        "pokemon": "zapdos",
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "ultra-rare",
+        "level": "50-70",
+        "weight": 0.8,
+        "condition": {
+          "biomes": [ 
+            "#cobblemon:is_plateau"
+          ],
+          "isThundering": true,
+        "neededBaseBlocks": [
+            "minecraft:grass_block",
+            "minecraft:stone"
+        ]
+        }
+      },
+      {
+        "id": "zapdos-2",
+        "pokemon": "zapdos",
+        "presets": ["natural"],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "ultra-rare",
+        "level": "70",
+        "weight": 5.0,
+        "condition": {
+            "canSeeSky": true,
+            "biomes": [
+                "#cobblemon:is_mountain"
+                    ],
+            "isThundering": true
+        }
+    },
+    {
+      "id": "zapdos-galarian",
+      "pokemon": "zapdos galarian",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 3.0,
+      "condition": {
+          "biomes": [
+              "#cobblemon:is_mountain"
+          ],
+          "isRaining": false
+      }
+    }
+  ]
+}

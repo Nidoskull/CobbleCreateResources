@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:magmar",
+    "lightingData": {
+        "lightLevel": 7,
+        "liquidGlowMode": "LAND"
+       }
+}
